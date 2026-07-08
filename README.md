@@ -22,11 +22,11 @@ A cross-platform, valid-account intrusion investigation I designed and built **e
 - **[Northpeak Descent — Community Threat Hunt](https://github.com/Loransee/Northpeak-Descent)** *(featured above)*
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Loransee/threat-hunting-scenario-tor)**
 
-##    Hack Smarter Capstone Pentest Report
+##  Hack Smarter Capstone Pentest Report
 
 - **[Hack Smarter Pentest Report (Capstone)](https://github.com/Loransee/hacksmarter-web-pentest-report)**
-
-- ##    My Pentest Methodology
+- 
+##  My Web-App Pentest Methodology
 
 - **[Loranse's Web App Pentest Methodology ](https://github.com/Loransee/Loranse-web-app-pentest-methodology)**
 
