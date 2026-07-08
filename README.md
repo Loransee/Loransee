@@ -1,8 +1,8 @@
-# <a href="https://www.linkedin.com/in/dddogukanoruc/">Dogukan Oruc</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/dddogukanoruc/">Dogukan Oruc</a>'s IT and Cybersecurity Project Portfolio
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection and hunt engineering, these projects let me dive deep into the ever-evolving landscape of security operations. Feel free to check them out and see the work I've put into it!
 
-## 🏔️ Featured: Northpeak Descent — Community Threat Hunt
+##  Featured: Northpeak Descent — Community Threat Hunt
 
 [<img src="https://raw.githubusercontent.com/Loransee/Northpeak-Descent/main/assets/NORTHPEAK_DESCENT_OPENING_IMAGE.png" alt="Northpeak Descent — Threat Hunt" width="600"/>](https://loransee.github.io/Northpeak-Descent/)
 
@@ -12,19 +12,19 @@ A cross-platform, valid-account intrusion investigation I designed and built **e
 
 **[▶️ View the live brief](https://loransee.github.io/Northpeak-Descent/)** · **[📁 Repository](https://github.com/Loransee/Northpeak-Descent)** · **[🎯 Play the hunt](https://hunt.lognpacific.com/hunt-10-brief)** *(Cyber Range membership required)*
 
-## ⚠️ Vulnerability Management Projects
+##  Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Loransee/Vulnability-Managment-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Loransee/programmatic-vulnerability-remediations/tree/main)**
 
-## 🚨 Threat Hunting and Security Operations
+##  Threat Hunting and Security Operations
 
 - **[Northpeak Descent — Community Threat Hunt](https://github.com/Loransee/Northpeak-Descent)** *(featured above)*
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Loransee/threat-hunting-scenario-tor)**
 
 ##    Hack Smarter Capstone Pentest Report
 
-- **[Hack Smarter Pentest Report (Capstone)](https://github.com/Loransee/threat-hunting-scenario-tor)**
+- **[Hack Smarter Pentest Report (Capstone)](https://github.com/Loransee/hacksmarter-web-pentest-report)**
 
 <hr/>
 
