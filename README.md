@@ -14,7 +14,7 @@ A cross-platform, valid-account intrusion investigation I designed and built **e
 
 ##  Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/Loransee/Vulnability-Managment-Program)**
+- **[Vulnerability Management Program Implementation](https://github.com/Loransee/vulnability-managment-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Loransee/programmatic-vulnerability-remediations/tree/main)**
 
 ##  Threat Hunting and Security Operations
