@@ -28,7 +28,7 @@ A cross-platform, valid-account intrusion investigation I designed and built **e
  
 ##  My Web-App Pentest Methodology
 
-- **[Loranse's Web App Pentest Methodology ](https://github.com/Loransee/Loranse-web-app-pentest-methodology)**
+- **[Web App Pentest Methodology](https://github.com/Loransee/web-app-pentest-methodology)**
 
 <hr/>
 
