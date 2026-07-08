@@ -4,13 +4,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ##  Featured: Northpeak Descent — Community Threat Hunt
 
-[<img src="https://raw.githubusercontent.com/Loransee/Northpeak-Descent/main/assets/NORTHPEAK_DESCENT_OPENING_IMAGE.png" alt="Northpeak Descent — Threat Hunt" width="600"/>](https://loransee.github.io/Northpeak-Descent/)
+[<img src="https://raw.githubusercontent.com/Loransee/Northpeak-Descent/main/assets/NORTHPEAK_DESCENT_OPENING_IMAGE.png" alt="Northpeak Descent — Threat Hunt" width="600"/>](https://loransee.github.io/northpeak-descent/)
 
 > *An operator held the front door open while everyone watched the noise.*
 
 A cross-platform, valid-account intrusion investigation I designed and built **end-to-end** during my internship at **Log(N) Pacific** — attack emulation, telemetry engineering, and the operation brief — now live on **Josh Madakor's Cyber Range**. 18 flags across Windows and Linux telemetry, hunted in Microsoft Sentinel with KQL.
 
-**[▶️ View the live brief](https://loransee.github.io/Northpeak-Descent/)** · **[📁 Repository](https://github.com/Loransee/Northpeak-Descent)** · **[🎯 Play the hunt](https://hunt.lognpacific.com/hunt-10-brief)** *(Cyber Range membership required)*
+**[▶️ View the live brief](https://loransee.github.io/northpeak-descent/)** · **[📁 Repository](https://github.com/Loransee/northpeak-descent)** · **[🎯 Play the hunt](https://hunt.lognpacific.com/hunt-10-brief)** *(Cyber Range membership required)*
 
 ##  Vulnerability Management Projects
 
@@ -19,7 +19,7 @@ A cross-platform, valid-account intrusion investigation I designed and built **e
 
 ##  Threat Hunting and Security Operations
 
-- **[Northpeak Descent — Community Threat Hunt](https://github.com/Loransee/Northpeak-Descent)** *(featured above)*
+- **[Northpeak Descent — Community Threat Hunt](https://github.com/Loransee/northpeak-descent)** *(featured above)*
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Loransee/threat-hunting-scenario-tor)**
 
 ##  Hack Smarter Capstone Pentest Report
