@@ -25,7 +25,7 @@ A cross-platform, valid-account intrusion investigation I designed and built **e
 ##  Hack Smarter Capstone Pentest Report
 
 - **[Hack Smarter Pentest Report (Capstone)](https://github.com/Loransee/hacksmarter-web-pentest-report)**
-- 
+ 
 ##  My Web-App Pentest Methodology
 
 - **[Loranse's Web App Pentest Methodology ](https://github.com/Loransee/Loranse-web-app-pentest-methodology)**
